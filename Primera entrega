@@ -1,0 +1,4 @@
+-- Creamos una variable x que nos de como resultado 'Hola mundo'
+
+x = ('hola Mundo'
+print(x)
